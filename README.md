@@ -18,15 +18,9 @@ Present a report of what cryptocurrencies are on the trading market and how cryp
 
 ## Data Resources
 
-- The cryptocurrencies data was retrieved from <https://min-api.cryptocompare.com/data/all/coinlist>
+- Data Source: crypto_data.csv, CryptoCompare
 
-- The csv format data resource (/Resources/crypto_data.csv)
-
-## Codes
-
-- [Jupyter_Notebook](/crypto_PCA_kmeans.ipynb) 
-
-- [Python](/crypto_PCA_kmeans.py)
+- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 
 ### Results
 
