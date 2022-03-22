@@ -30,12 +30,13 @@ Present a report of what cryptocurrencies are on the trading market and how cryp
 
 ### Results
 
-- ![Elbow_curve](/Elbow_curve.PNG)
+- ![image](https://user-images.githubusercontent.com/92435456/159434425-18f29e22-8c1a-4743-96c0-a33c17af7966.png)
 
-- ![2d_scatter_plot](/2d_scatter_plot.PNG)
+- ![image](https://user-images.githubusercontent.com/92435456/159434483-50db150f-76aa-4b0f-b5e6-229001255bc1.png)
 
-- ![3d_scatter_plot](/3d_scatter_plot.PNG)
+- ![image](https://user-images.githubusercontent.com/92435456/159434503-98214334-a13c-4c9f-b2e5-3f36ea2d43ed.png)
 
-## Conclusion
+## Summary
 
-Based on elbow curve figure, I decided to group preprocessed 533 cryptocurrencies into 4 clusters in oder to find their patterns. The 2d scatter figure shows clusters related to the number of available coins versus the total number of mined coins. The 3d scatter graph clearly displays different clusters distributed with 3 principal component variables.
+We have identified the classification of 532 cryptocurrencies based on similarities of their features.
+Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
